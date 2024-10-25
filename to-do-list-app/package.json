@@ -1,0 +1,21 @@
+{
+  "name": "to-do_list-app",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "To-Do_List-App"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^10.9.0"
+  }
+}
